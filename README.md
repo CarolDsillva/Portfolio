@@ -10,7 +10,7 @@ Being a lifelong learner is a trait that is really important to me, and I know t
 
 ## Demo
 The website is live on this link: 
-https://carol-dsillva.github.io/Portfolio/
+[https://caroldsillva.github.io/Portfolio/](https://caroldsillva.github.io/Portfolio/)
 
 
 ## Acknowledgements
